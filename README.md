@@ -23,13 +23,100 @@
 ---
 
 ## 📅 **일정표** 📅
-
+<!-- 
 | **주차**  | **날짜** | **내용**   | **정리**  | **회고**  | **스터디원**   |
 | --------- | -------- | ---------- | --------- | --------- | -------------- |
 | **0주차** | 3/25(화) | OT         | -         | -         | -              |
-| **1주차** | M/D(-)   | [2장] 타입 | [정리](#) | [회고](#) | 김재환, 김기원 |
+| **1주차** | M/D(-)   | [2장] 타입 | [정리](#) | [회고](#) | 김재환, 김기원 | -->
 
----
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="5">0주차</td>
+</tr>
+<tr>
+<td align="center">3/25(화)</td>
+<td colspan="4">OT</td>
+</tr>
+<tr>
+<td align="center" colspan="5">1주차</td>
+</tr>
+
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[2장] 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td rowSpan="2" align="center">김재환</td>
+</tr>
+
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[3장] 고급 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<!-- <td>김재환</td> -->
+</tr>
+<tr>
+<td align="center" colspan="5">&nbsp;</td>
+</tr>
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[2장] 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td rowSpan="2" align="center">김기원</td>
+</tr>
+
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[3장] 고급 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<!-- <td>김기원</td> -->
+</tr>
+
+<tr>
+<td align="center" colspan="5">2주차</td>
+</tr>
+
+<!--  -->
+
+<!-- <tr>
+<td align="center">4/1(화)</td>
+<th align="left">[2장] 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td>김재환</td>
+</tr>
+
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[3장] 고급 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td>김재환</td>
+</tr>
+
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[2장] 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td>김기원</td>
+</tr>
+
+<tr>
+<td align="center">4/1(화)</td>
+<th align="left">[3장] 고급 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td>김기원</td>
+</tr> -->
+
+</tbody>
+</table>
+<!-- --- -->
 
 ## 🤓 **스터디원** 🤓
 
