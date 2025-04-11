@@ -80,6 +80,39 @@
 <td align="center" colspan="5">2주차</td>
 </tr>
 
+<tr>
+<td align="center">4/11(금)</td>
+<th align="left">[4장] 타입 확장하기 · 좁히기</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td rowSpan="2" align="center">김재환</td>
+</tr>
+
+<tr>
+<td align="center">4/11(금)</td>
+<th align="left">[5장] 타입 활용하기</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<!-- <td>김재환</td> -->
+</tr>
+<tr>
+<td align="center" colspan="5">&nbsp;</td>
+</tr>
+<tr>
+<td align="center">4/11(금)</td>
+<th align="left">[4장] 타입 확장하기 · 좁히기</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td rowSpan="2" align="center">김기원</td>
+</tr>
+
+<tr>
+<td align="center">4/11(금)</td>
+<th align="left">[5장] 타입 활용하기</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<!-- <td>김기원</td> -->
+</tr>
 <!--  -->
 
 <!-- <tr>
