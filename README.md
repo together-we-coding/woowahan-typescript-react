@@ -113,6 +113,44 @@
 <td><a href="">회고</a></td>
 <!-- <td>김기원</td> -->
 </tr>
+
+<tr>
+<td align="center" colspan="5">3주차</td>
+</tr>
+
+<tr>
+<td align="center">4/30(화)</td>
+<th align="left">[6장] 타입스크립트 컴파일</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td rowSpan="2" align="center">김재환</td>
+</tr>
+
+<tr>
+<td align="center">4/30(화)</td>
+<th align="left">[7장] 비동기 호출</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<!-- <td>김재환</td> -->
+</tr>
+<tr>
+<td align="center" colspan="5">&nbsp;</td>
+</tr>
+<tr>
+<td align="center">4/30(화)</td>
+<th align="left">[6장] 타입스크립트 컴파일</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<td rowSpan="2" align="center">김기원</td>
+</tr>
+
+<tr>
+<td align="center">4/30(화)</td>
+<th align="left">[7장] 비동기 호출</th>
+<td><a href="">정리</a></td>
+<td><a href="">회고</a></td>
+<!-- <td>김기원</td> -->
+</tr>
 <!--  -->
 
 <!-- <tr>
