@@ -119,7 +119,7 @@
 </tr>
 
 <tr>
-<td align="center">4/30(화)</td>
+<td align="center">4/30(수)</td>
 <th align="left">[6장] 타입스크립트 컴파일</th>
 <td><a href="">정리</a></td>
 <td><a href="">회고</a></td>
@@ -127,7 +127,7 @@
 </tr>
 
 <tr>
-<td align="center">4/30(화)</td>
+<td align="center">4/30(수)</td>
 <th align="left">[7장] 비동기 호출</th>
 <td><a href="">정리</a></td>
 <td><a href="">회고</a></td>
@@ -137,7 +137,7 @@
 <td align="center" colspan="5">&nbsp;</td>
 </tr>
 <tr>
-<td align="center">4/30(화)</td>
+<td align="center">4/30(수)</td>
 <th align="left">[6장] 타입스크립트 컴파일</th>
 <td><a href="">정리</a></td>
 <td><a href="">회고</a></td>
@@ -145,7 +145,7 @@
 </tr>
 
 <tr>
-<td align="center">4/30(화)</td>
+<td align="center">4/30(수)</td>
 <th align="left">[7장] 비동기 호출</th>
 <td><a href="">정리</a></td>
 <td><a href="">회고</a></td>
